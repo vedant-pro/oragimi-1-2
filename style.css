@@ -1,0 +1,25 @@
+h1{
+    color: aqua;
+    }
+.header{
+    background-color: black;
+    display:flex;
+    justify-content: space-between;
+    
+}
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.origami{
+    width: 300px;
+    border: solid;
+    border-radius: 30px;
+}
+img{
+    border: solid;
+    border-radius: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
